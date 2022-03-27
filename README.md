@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archer743?theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archer743&theme=dark)
