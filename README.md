@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 C - radical, merko, gruvbox, tokyonight, onedark, synthwave
-S - dark, cobalt, highcontrast
+S - dark, cobalt, highcontrast, dracula
 -->
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archer743&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archer743&theme=merko)
