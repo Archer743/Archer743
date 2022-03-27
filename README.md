@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-C - radical, merko
+C - radical, merko, gruvbox
 S - dark
-tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+onedark, cobalt, synthwave, highcontrast, dracula
 -->
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archer743&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archer743&theme=tokyonight)
