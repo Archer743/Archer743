@@ -20,7 +20,7 @@ S - dark, cobalt, highcontrast, dracula
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Archer743&theme=merko" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archer743&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archer743&layout=compact&theme=merko" />
 
 <!--
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
